@@ -1,6 +1,6 @@
 <div align="center">
-
-# Deep-ML Problems
+    
+![Deep-ML Problems](https://capsule-render.vercel.app/api?type=waving&color=0:F0FDF4,100:BBF7D0&height=250&section=header&text=Deep-ML%20Problems&fontSize=60&fontColor=14532D&fontAlignY=36&animation=fadeIn&desc=A%20comprehensive%20blueprint%20for%20Mastering%20Natural%20Language%20Processing&descSize=20&descAlignY=60)
 
 **Structured, benchmarked Python solutions to [Deep-ML](https://www.deep-ml.com/problems) practice problems** — every problem explained from first principles and implemented across multiple frameworks, from raw Python up to hand-written CUDA kernels.
 
@@ -17,7 +17,7 @@
 
 ## About
 
-[Deep-ML](https://www.deep-ml.com/problems) is a LeetCode-style platform for machine learning and deep learning fundamentals — linear algebra, probability, neural network internals, and classical ML algorithms implemented from scratch.
+**Deep-ML** is a LeetCode-style platform for machine learning and deep learning fundamentals — linear algebra, probability, neural network internals, and classical ML algorithms implemented from scratch.
 
 This repository is my solutions log, built to a consistent standard: **every problem gets a plain-language explanation of the underlying math, a working implementation, and a written walkthrough of *why* the solution works** — not just code that passes the test case. Where a problem is a good excuse to go deeper (e.g. a core linear algebra op), solutions are also implemented across the frameworks that actually run production ML systems: NumPy, PyTorch, raw CUDA, and Tinygrad.
 
@@ -86,13 +86,36 @@ Most "LeetCode solutions" repos are a wall of code with no context — useful fo
 - [ ] Work through the Probability & Statistics track
 - [ ] Add a progress badge / completion percentage to this README
 
-## Connect
+---
 
-**Ayush Kumar Singh** — B.Tech AI/ML, Amity University Lucknow
+## 📜 License
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ayush--2703-181717?style=flat-square&logo=github)](https://github.com/Ayush-2703)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayushsingh2703-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsingh2703)
+Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.  
+You're free to use, fork, and build on this for personal and commercial projects.
 
-## License
+---
 
-Distributed under the [MIT License](./LICENSE).
+## 👤 Author
+
+<div align="center">
+
+### Ayush Kumar Singh
+
+*Researcher in Adversarial ML, Geospatial AI, and LLM/NLP Systems*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ayush%20Kumar%20Singh-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-2703)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumar%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayushsingh2703)
+[![Email](https://img.shields.io/badge/Email-Ayush%20Kumar%20Singh-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ab49ayush@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+**If this repository helped you, please consider giving it a ⭐**  
+*It takes 2 seconds and helps others discover it.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0FDF4,100:BBF7D0&height=100&section=footer" width="100%"/>
+
+</div>
