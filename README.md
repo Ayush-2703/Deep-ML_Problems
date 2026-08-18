@@ -27,12 +27,7 @@ Each problem lives in its own folder, named after the problem, containing exactl
 
 ```
 Deep-ML_Problems/
-├── matrix-vector-dot-product/
-│   ├── README.md            # Problem statement, signature, example, constraints
-│   ├── solution.py           # Working solution(s) in Python
-│   └── explanation.md        # Why the solution works — math, trace, complexity
-│
-├── <next-problem>/
+├── <problem>/
 │   ├── README.md
 │   ├── solution.py
 │   └── explanation.md
