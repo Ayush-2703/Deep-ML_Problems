@@ -1,6 +1,6 @@
 <div align="center">
     
-![Deep-ML Problems](https://capsule-render.vercel.app/api?type=waving&color=0:F0FDF4,100:BBF7D0&height=250&section=header&text=Deep-ML%20Problems&fontSize=60&fontColor=14532D&fontAlignY=36&animation=fadeIn&desc=A%20comprehensive%20blueprint%20for%20Mastering%20Natural%20Language%20Processing&descSize=20&descAlignY=60)
+![Deep-ML Problems](https://capsule-render.vercel.app/api?type=waving&color=0:F0FDF4,100:BBF7D0&height=250&section=header&text=Deep-ML%20Problems&fontSize=60&fontColor=14532D&fontAlignY=36&animation=fadeIn&desc=A%20curated,%20optimized%20collection%20of%20Deep-ML%20problem%20solution%20traking%20my%20AI%20mastry%20journy&descSize=20&descAlignY=60)
 
 **Structured, benchmarked Python solutions to [Deep-ML](https://www.deep-ml.com/problems) practice problems** — every problem explained from first principles and implemented across multiple frameworks, from raw Python up to hand-written CUDA kernels.
 
