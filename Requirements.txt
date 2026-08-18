@@ -1,0 +1,10 @@
+# Core — required for every problem
+numpy>=1.26
+
+# Framework-based solutions (only needed for problems that include them)
+torch>=2.2
+tinygrad>=0.9
+
+# Raw CUDA kernels (only needed for problems with a CUDA implementation,
+# and only runs on a machine with an NVIDIA GPU + CUDA toolkit installed)
+pycuda>=2024.1
