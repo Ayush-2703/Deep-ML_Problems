@@ -45,7 +45,8 @@ Deep-ML_Problems/
 
 | # | Problem | Category | Difficulty | Frameworks | Solution |
 |---|---|---|---|---|---|
-| 1 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | Linear Algebra | Easy | Python · NumPy · PyTorch · CUDA · Tinygrad | [`matrix-vector-dot-product/`](./matrix-vector-dot-product) |
+| 1 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | Linear Algebra | Easy | Python · NumPy · PyTorch · CUDA · Tinygrad | [`Prmatrix-vector-dot-product/`](./matrix-vector-dot-product) |
+| 2 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | Linear Algebra | Easy | Python · NumPy · PyTorch · CUDA · Tinygrad |---|
 
 > New problems are added as they're solved — this table is the single source of truth for progress. See [Roadmap](#roadmap) for what's next.
 
