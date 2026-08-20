@@ -1,8 +1,5 @@
 # Transpose of a Matrix
-
-- **Difficulty:** Easy
-- **Category:** Linear Algebra
-- **Problem link:** [Deep-ML | Transpose of a Matrix](https://www.deep-ml.com/problems/2)
+> Difficulty: Easy; Category: Linear Algebra; Problem link: [Deep-ML | Transpose of a Matrix](https://www.deep-ml.com/problems/2)
 
 ## Problem Statement
 
